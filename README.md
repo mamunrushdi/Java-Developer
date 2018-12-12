@@ -100,16 +100,16 @@ In this project I’ve used to the following algorithm find a shortest route bet
 	1. Breadth First Search 
 	1. Dijkstra Algorithm
 	1. A* search Algorithm
-I’ve used the following data Structure: Set, Queue and Graph
+	I’ve used the following data Structure: Set, Queue and Graph
 
-Please see details of this project in [GitHub](https://github.com/mmncoder/Shortest-Route-Finding-in-Map)
+  	Please see details of this project in [GitHub](https://github.com/mmncoder/Shortest-Route-Finding-in-Map)
 
  1. Detect number of total user of Social Network, whom need to share a post to be seen by everyone in that social network and sub communities in a Social Network
 Object Oriented Java Programming: Data Structures and Beyond  by University of California San Diego
 For the first part I’ve use simple algorithm to find how many user need to post a post/ message to be seen by everyone in the network.
 For second part, I’ve used Grivan-Newmanalgorithm.
 
- Please see details of this project in [GitHub](https://github.com/mmncoder/Social-Network-Analyzing-Detect-Sub-Communities-in-a-Social-Network)
+	 Please see details of this project in [GitHub](https://github.com/mmncoder/Social-Network-Analyzing-Detect-Sub-Communities-in-a-Social-Network)
 
  1. For Parallel, Concurrent, and Distributed Programming in Java specialization I’ve develop 12 mini-projects (at introductory label) where the starter codes were provided.
 Specially I’ve develop the program to exhibit the following:

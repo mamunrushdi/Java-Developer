@@ -61,7 +61,7 @@ where I've learnt basic of:
 		- Approaches to combine distribution with multithreading, including processes and threads, distributed 		          actors, and reactive programming		
 	1. Optimistic Concurrency Control
 
-### I've successfully complete another course in Coursera on Unix based operating, called "The Unix Workbench"  by John Hopkins University
+I've successfully complete another course in Coursera on Unix based operating, called "The Unix Workbench"  by John Hopkins University
 (https://www.coursera.org/learn/unix)
 where I've learnt:
  -  Shell Script
@@ -69,9 +69,9 @@ where I've learnt:
  -  Bash (Unix Shell)
  -  Cloud Computing
 
-***For the third specialization, "Object Oriented Java Programming: Data Structures and Beyond", I've completed all the courses of this specialization but could not get specialization certificate as I've submitted my Capston project for this specialization at the least time. It occurred such because at the beginning my project was far more challenges to complete in due time. Later I've taken a project which was possible to complete in due time but I could not get enough peer review to get a grade. Thus I didn't get the certificate. I hope in the upcoming session which is going to be started at end December, i will get enough peer review and will achieve the certificate. 
+_For the third specialization, "Object Oriented Java Programming: Data Structures and Beyond", I've completed all the courses of this specialization but could not get specialization certificate as I've submitted my Capston project for this specialization at the least time. It occurred such because at the beginning my project was far more challenges to complete in due time. Later I've taken a project which was possible to complete in due time but I could not get enough peer review to get a grade. Thus I didn't get the certificate. I hope in the upcoming session which is going to be started at end December, i will get enough peer review and will achieve the certificate._
 
-#### During learning from these Courses I've developed quite few number of projects like, 
+#### During learning from these Courses I've developed quite the follwoing projects, 
  1. Analyzing DAN to detect a gene
  1. Analyzing data and answering question about this data
  1. Encrypting and Decrypting text
@@ -90,14 +90,14 @@ Unfoldingmaps library(http://unfoldingmaps.org/)
 Processing library (https://processing.org/)
 I‘ve used JSON data in this project.
 
-*Please see details of this project in GitHub: https://github.com/mmncoder/Earthquake-Data-Visualization
+Please see details of this project in GitHub: https://github.com/mmncoder/Earthquake-Data-Visualization
 
 
                 
  1. Text editor to generate text using Markove model (small machine learning project), check word spell, auto suggestion for misspelled word and  auto-completion as soon as user start to type a word 
 In this project I’ve used different data structures like: List, Map, learn Markove model, read Flesch Score to determine a text’s difficulties to comprehend, distance between two words.
 
-*Please see details of this project in GitHub:https://github.com/mmncoder/Text-Editor
+Please see details of this project in GitHub:https://github.com/mmncoder/Text-Editor
 
 
  1. Finding shortest route in Map
@@ -107,45 +107,45 @@ In this project I’ve used different data structures like: List, Map, learn Mar
 		1. A* search Algorithm
 	I’ve used the following data Structure: Set, Queue and Graph
 
-*Please see details of this project in GitHub: https://github.com/mmncoder/Shortest-Route-Finding-in-Map
+Please see details of this project in GitHub: https://github.com/mmncoder/Shortest-Route-Finding-in-Map
 
  1. Detect number of total user of Social Network, whom need to share a post to be seen by everyone in that social network and sub communities in a Social Network
 Object Oriented Java Programming: Data Structures and Beyond  by University of California San Diego
 For the first part I’ve use simple algorithm to find how many user need to post a post/ message to be seen by everyone in the network.
 For second part, I’ve used Grivan-Newmanalgorithm.
 
-*Please see details of this project in GitHub:
+Please see details of this project in GitHub:
 https://github.com/mmncoder/Social-Network-Analyzing-Detect-Sub-Communities-in-a-Social-Network
 
  1. For Parallel, Concurrent, and Distributed Programming in Java specialization I’ve develop 12 mini-projects (at introductory label) where the starter codes were provided.
 Specially I’ve develop the program to exhibit the following:
-### In Concurrent:
-	1. Locking and Synchronization
-	1. Global and Object-Based Isolation
-	1. Sieve of Eratosthenes Using Actor Parallelism
-	1. Parallelization of Boruvka's Minimum Spanning Tree Algorithm
-*Please see details of this project in GitHub:
+	 1. In Concurrent:
+		1. Locking and Synchronization
+		1. Global and Object-Based Isolation
+		1. Sieve of Eratosthenes Using Actor Parallelism
+		1. Parallelization of Boruvka's Minimum Spanning Tree Algorithm
+	Please see details of this project in GitHub:
 https://github.com/mmncoder/Concurrent-Programming-in-Java
 
-### In Parallel:
-	1. ReciprocalArraySum using RecursiveAction's in Java's Fork/Join Framework 
- 	1. Analysing Student Statictis Using Java Parallel Stream
-	1. Parallelizing Matrix-Matrix Multiply Using Loop Parallelism
-	1. Using Phasers to Optimize Data-Parallel Applications
-*Please see details of this project in GitHub:
+	1. In Parallel:
+		1. ReciprocalArraySum using RecursiveAction's in Java's Fork/Join Framework 
+		1. Analysing Student Statictis Using Java Parallel Stream
+		1. Parallelizing Matrix-Matrix Multiply Using Loop Parallelism
+		1. Using Phasers to Optimize Data-Parallel Applications
+Please see details of this project in GitHub:
 https://github.com/mmncoder/Parallel-Programming-in-Java
 
-### In Distributed: 
-	1. Page Rank with Spark
-	1. File Server Using Sockets
-	1. Distributed Matrix Multiply using Message Passing
-	1. Parallel File Server using Multithreading and Sockets
-   *Please see details of this project in GitHub:
+	1. In Distributed: 
+		1. Page Rank with Spark
+		1. File Server Using Sockets
+		1. Distributed Matrix Multiply using Message Passing
+		1. Parallel File Server using Multithreading and Sockets
+   Please see details of this project in GitHub:
    https://github.com/mmncoder/Distributed-Programming-in-Java
  
 ## Bash programing
 This project was the final assignment of  “The Unix Workbench" course. In this assignment I’ve developed a program in Bash programming languge to play “Guessing Game”, where the have to guess how many files in the current directory and use will get response according to his input.
-*Please see details of this project in GitHub:
+Please see details of this project in GitHub:
 https://github.com/mmncoder/Bash-Programming-Assignment-Guessing-Game
 
 #### About myself:

@@ -149,9 +149,9 @@ For second part, I’ve used Grivan-Newmanalgorithm.
  	This project was the final assignment of  “The Unix Workbench" course. In this assignment I’ve developed a program in Bash programming languge to play “Guessing Game”, where the have to guess how many files in the current directory and use will get response according to his input.
  Please see details of this project in [GitHub](https://github.com/mmncoder/Bash-Programming-Assignment-Guessing-Game)
 
-#### About myself:
-I've deep understanding of Object Oriented Programming Philosophy, it’s design and implementation with Java programming language, Data structures, different type of algorithm to Data analysis.
-I'm looking for an opportunity for a Java developer or Data analysis where I can apply my skills, talent, knowledge and at the same time can learn and develop myself by solving challenging, complex and innovative projects and will be a valuable member of my development team.
+#### My Objective:
+	I've deep understanding of Object Oriented Programming Philosophy, it’s design and implementation with Java programming language, Data structures, different type of algorithm to Data analysis.
+	I'm looking for an opportunity for a Java developer or Data analysis where I can apply my skills, talent, knowledge and at the same time can learn and develop myself by solving challenging, complex and innovative projects and will be a valuable member of my development team.
 
 #### _Programming skills:_
 •	Good understanding of object oriented programming design and implementation

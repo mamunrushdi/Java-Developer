@@ -65,7 +65,7 @@ where I've learnt:
  -  Bash (Unix Shell)
  -  Cloud Computing
 
-_For the third specialization, "Object Oriented Java Programming: Data Structures and Beyond", I've completed all the courses of this specialization but could not get specialization certificate as I've submitted my Capston project for this specialization at the least time. It occurred such because at the beginning my project was far more challenges to complete in due time. Later I've taken a project which was possible to complete in due time but I could not get enough peer review to get a grade. Thus I didn't get the certificate. I hope in the upcoming session which is going to be started at end December, i will get enough peer review and will achieve the certificate._
+_For the third specialization, "Object Oriented Java Programming: Data Structures and Beyond", I've completed all the courses of this specialization but could not get specialization certificate as I've submitted my Capston project for this specialization at the least time. It occurred, because at the beginning my project was far more challenging to complete in due time. Later I've taken a project which was possible to complete in due time but I could not get enough peer review to get a grade. Thus I didn't get the certificate. I hope in the upcoming session, which is going to be started at end December, I will get enough peer review and will achieve the certificate._
 
 _[Accomplishment Cetificate of all the Courses](https://github.com/mmncoder/Coursera-Certificates)_
 #### During learning peoriod of these Courses I've developed the follwoing projects:

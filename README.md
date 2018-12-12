@@ -126,6 +126,7 @@ Specially I’ve develop the program to exhibit the following:
 		1. Analysing Student Statictis Using Java Parallel Stream
 		1. Parallelizing Matrix-Matrix Multiply Using Loop Parallelism
 		1. Using Phasers to Optimize Data-Parallel Applications
+		
 	Please see details of this project in [GitHub](https://github.com/mmncoder/Parallel-Programming-in-Java)
 
 	1. In Distributed: 
@@ -133,6 +134,7 @@ Specially I’ve develop the program to exhibit the following:
 		1. File Server Using Sockets
 		1. Distributed Matrix Multiply using Message Passing
 		1. Parallel File Server using Multithreading and Sockets
+		
        Please see details of this project in [GitHub](https://github.com/mmncoder/Distributed-Programming-in-Java)
  
  1. Bash programing
@@ -142,10 +144,6 @@ This project was the final assignment of  “The Unix Workbench" course. In this
 #### About myself:
 I've deep understanding of Object Oriented Programming Philosophy, it’s design and implementation with Java programming language, Data structures, different type of algorithm to Data analysis.
 I'm looking for an opportunity for a Java developer or Data analysis where I can apply my skills, talent, knowledge and at the same time can learn and develop myself by solving challenging, complex and innovative projects and will be a valuable member of my development team.
-
-_I've strong motivation and sincere desire to build a successful career in information technology._
-
-### A summary of my skills are mentioned below. 
 
 #### _Programming skills:_
 •	Good understanding of object oriented programming design and implementation

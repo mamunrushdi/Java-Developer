@@ -40,11 +40,9 @@ where I've learnt:
 by Rice University
 (https://www.coursera.org/specializations/pcdp)
 where I've learnt basic of:
-	1. A
-	1. B
-	1. C
+	
 
-	a)Java Concurrency:
+	1. Java Concurrency:
 		 1.Concurrency theory: progress guarantees, deadlock, livelock, starvation, linearizability
 		 1.Use of threads and structured/unstructured locks in Java		
 		 1.Atomic variables and isolation		
@@ -52,7 +50,7 @@ where I've learnt basic of:
 		 1.Actor model in Java
 		
 		
-	b) Parallel Computing
+	1. Parallel Computing
 	
 		- Theory of parallelism: computation graphs, work, span, ideal parallelism, parallel speedup, Amdahl's Law, 		      data races, and determinism
 		
@@ -65,7 +63,7 @@ where I've learnt basic of:
 		- Dataflow parallelism using the Phaser framework and data-driven tasks
 		
 		
-	c) Distributed Computing
+	1. Distributed Computing
 	
 		- Distributed map-reduce programming in Java using the Hadoop and Spark frameworks
 		
@@ -76,7 +74,7 @@ where I've learnt basic of:
 		- Approaches to combine distribution with multithreading, including processes and threads, distributed 		          actors, and reactive programming
 		
 		
-	1.Optimistic Concurrency Control
+	1. Optimistic Concurrency Control
 
 ### I've successfully complete another course in Coursera on Unix based operating, called "The Unix Workbench"  by John Hopkins University
 (https://www.coursera.org/learn/unix)

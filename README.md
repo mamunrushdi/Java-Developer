@@ -193,7 +193,7 @@ _I've strong motivation and sincere desire to build a successful career in infor
 •	Netbeans
 •	IntelliJ IDEA
 
-#### Linux: Basic understanding of Linux operating System and user level experience 
+ __Linux__: Basic understanding of Linux operating System and user level experience 
 
 #### Git and EGit
 •	Basic skills with Git version control using command line
@@ -207,6 +207,8 @@ CSV, JSON, HTML, CSS, Bootstrap, Designing UML diagram, Apache Tomcat, DevOps Cu
 I’m a permanent residence (есть Вид на жительство) of Russian Federation. I’m living in Russia since 2009. I have Tax Identification Number (ИНН) as well as other all necessary documents to live and work in Russia legally.
 
 #### About Myself
-As a person, I’m hard worker, active learner, cooperative, sociable and friendly. As learner  and personal growth I actively different kind of online educational forums and blogs, especially stackoverflow.com and GOTO Conference, TEDTALK (ted.com), Harvard Business Review.
-  I’m fluent in Russian. At university I've studied in Russian language, both my Bachelor and Master's.
-I’ve been a volunteer in Saint Petersburg International Economic Forum in 2015.
+As a person, I’m hard worker, active learner, cooperative, sociable and friendly. As learner and for personal growth I actively follow different kind of online educational forums and blogs, especially [Stackoverflow](stackoverflow.com) and [GOTO Conference](https://blog.gotocon.com/), [TEDTALK](ted.com), [Harvard Business Review](https://hbr.org/)
+
+I’m fluent in Russian. At university I've studied in Russian language, both my Bachelor and Masters.
+
+I’ve been a volunteer in [Saint Petersburg International Economic Forum in 2015](https://www.forumspb.com/en/)

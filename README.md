@@ -2,9 +2,9 @@
 I'm a permanent residence of Russian Federation (есть Вид На Жительство) and a graduate of Peter the Great Saint Petersburg Polytechnic University.
 
 Last year, 2017 after graduating from Saint Petersburg Polytechnic University I started learn Computer Science and Programming language in deep at [Coursera](https://www.coursera.org/).
-In Coursera I've completed 15 courses which mainly focused on Object Oriented Programming Java, Parallel, Concurrent, and Distributed programming in Java and Shell programming, Linux. Those courses were conducted by Duke University, University of San Diego, Rice University and John Hopkins University.
+In Coursera I've completed 15 courses which mainly focused on Object Oriented Programming Java, Parallel, Concurrent, and Distributed programming in Java, Shell programming, and Linux. Those courses were conducted by Duke University, University of San Diego, Rice University and John Hopkins University.
 
-Among this 15 courses, there were 3 specialization courses, whic are:
+Among these 15 courses, there were 3 specialization courses, whic are:
 
 1) Java programming and software engineering fundamentals by [Duke University](https://www.coursera.org/specializations/java-programming)
 where I've learned:
@@ -66,6 +66,7 @@ where I've learnt:
 
 _For the third specialization, "Object Oriented Java Programming: Data Structures and Beyond", I've completed all the courses of this specialization but could not get specialization certificate as I've submitted my Capston project for this specialization at the least time. It occurred such because at the beginning my project was far more challenges to complete in due time. Later I've taken a project which was possible to complete in due time but I could not get enough peer review to get a grade. Thus I didn't get the certificate. I hope in the upcoming session which is going to be started at end December, i will get enough peer review and will achieve the certificate._
 
+_[Accomplishment Cetificate of all the Courses](https://github.com/mmncoder/Coursera-Certificates)_
 #### During learning peoriod of these Courses I've developed the follwoing projects:
  1. Analyzing DAN to detect a gene
  1. Analyzing data and answering question about this data

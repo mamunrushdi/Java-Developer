@@ -81,13 +81,13 @@ In this system, at the beginning,  the user will be prompt to rate 10 -  15 movi
  1. Visualize live Earthquake data in a Map
  	This program would read live data of earthquake from United States Geological Survey(USHS) and visualize those earthquake int a map.
 In this project with Java basic libraries, I've also used third parties libraries, like:
--[Unfoldingmaps library](http://unfoldingmaps.org/)
--[Processing library](https://processing.org/)
+
+	1. [Unfoldingmaps library](http://unfoldingmaps.org/)
+	1. [Processing library](https://processing.org/)
+
 I‘ve used __JSON data__ in this project.
 
 Please see details of this project in [GitHub](https://github.com/mmncoder/Earthquake-Data-Visualization)
-
-
                 
  1. Text editor to generate text using Markove model (small machine learning project), check word spell, auto suggestion for misspelled word and  auto-completion as soon as user start to type a word 
 In this project I’ve used different data structures like: List, Map, learn Markove model, read Flesch Score to determine a text’s difficulties to comprehend, distance between two words.

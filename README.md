@@ -1,4 +1,4 @@
-# My-Profile-as-a-Developer
+# My Profile as Java Developer
 I'm a permanent residence of Russian Federation (есть Вид На Жительство) and a graduate of Peter the Great Saint Petersburg Polytechnic University.
 
 Last year, at 2017 after graduating from Saint Petersburg Polytechnic University I've started to learn Computer Science and Programming language in deep at [Coursera](https://www.coursera.org/) to extend my programming knowldege and skills.

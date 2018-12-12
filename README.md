@@ -9,64 +9,63 @@ Among this 15 courses, there were 3 specialization courses, whic are:
 1) Java programming and software engineering fundamentals by Duke University
 (https://www.coursera.org/specializations/java-programming)
 where I've learned:
- 1. Basic web Developing ( HTML, CCS)
- 1. JavaScript
- 1. Java Programming
- 1. Object Oriented Programming Concept and Design
- 1. Developing algorithms
- 1. Data Structure
- 1. Solving problem with software
- 1. Reading Data from CSV file
+ - Basic web Developing ( HTML, CCS)
+ - JavaScript
+ - Java Programming
+ - Object Oriented Programming Concept and Design
+ - Developing algorithms
+ - Data Structure
+ - Solving problem with software
+ - Reading Data from CSV file
 
 
 2) Object Oriented Java Programming: Data Structures and Beyond  by University of California San Diego
 (https://www.coursera.org/specializations/java-object-oriented)
 where I've learnt:
- 1. Java Class Design, Redesign and Refactoring
- 1. Object creation in Java
- 1. Data Structure : List, Map, Tree, Tries, Graph
- 1. Problem Solving
- 1. Java Programming
- 1. Object-Oriented Programming (OOP)
- 1. Unit Testing
- 1. Efficiency Analysis and Benchmarking (Big O, Time complexity)
- 1. Basic sorting algorithms: Selection, Insert, Bubble, Merge, Quick
- 1. Critique aspects of code design
- 1. Breadth First Search Algorithms
- 1. Dijkstra Algorithm
- 1. A* Search Algorithm
+ - Java Class Design, Redesign and Refactoring
+ - Object creation in Java
+ - Data Structure : List, Map, Tree, Tries, Graph
+ - Problem Solving
+ - Java Programming
+ - Object-Oriented Programming (OOP)
+ - Unit Testing
+ - Efficiency Analysis and Benchmarking (Big O, Time complexity)
+ - Basic sorting algorithms: Selection, Insert, Bubble, Merge, Quick
+ - Critique aspects of code design
+ - Breadth First Search Algorithms
+ - Dijkstra Algorithm
+ - A* Search Algorithm
 
 3) Parallel, Concurrent, and Distributed Programming in Java
 by Rice University
 (https://www.coursera.org/specializations/pcdp)
 where I've learnt basic of
 __Java Concurrency:__
-Concurrency theory: progress guarantees, deadlock, livelock, starvation, linearizability
-Use of threads and structured/unstructured locks in Java
-Atomic variables and isolation
-Optimistic concurrency and concurrent collections in Java (e.g., concurrent queues, concurrent hashmaps)
-Actor model in Java
+- Concurrency theory: progress guarantees, deadlock, livelock, starvation, linearizability
+- Use of threads and structured/unstructured locks in Java
+- Atomic variables and isolation
+- Optimistic concurrency and concurrent collections in Java (e.g., concurrent queues, concurrent hashmaps)
+- Actor model in Java
 __Parallel Computing__
-Theory of parallelism: computation graphs, work, span, ideal parallelism, parallel speedup, Amdahl's Law, data races, and determinism
-Task parallelism using Java’s ForkJoin framework
-Functional parallelism using Java’s Future and Stream frameworks
-Loop-level parallelism with extensions for barriers and iteration grouping (chunking)
-Dataflow parallelism using the Phaser framework and data-driven tasks
+- Theory of parallelism: computation graphs, work, span, ideal parallelism, parallel speedup, Amdahl's Law, data races, and determinism
+- Task parallelism using Java’s ForkJoin framework
+- Functional parallelism using Java’s Future and Stream frameworks
+- Loop-level parallelism with extensions for barriers and iteration grouping (chunking)
+- Dataflow parallelism using the Phaser framework and data-driven tasks
 __Distributed Computing__
-Distributed map-reduce programming in Java using the Hadoop and Spark frameworks
-Client-server programming using Java's Socket and Remote Method Invocation (RMI) interfaces
-Message-passing programming in Java using the Message Passing Interface (MPI)
-Approaches to combine distribution with multithreading, including processes and threads, distributed actors, and reactive programming
+- Distributed map-reduce programming in Java using the Hadoop and Spark frameworks
+- Client-server programming using Java's Socket and Remote Method Invocation (RMI) interfaces
+- Message-passing programming in Java using the Message Passing Interface (MPI)
+- Approaches to combine distribution with multithreading, including processes and threads, distributed actors, and reactive programming
 __Optimistic Concurrency Control__
 
 ### I've successfully complete another course in Coursera on Unix based operating, called "The Unix Workbench"  by John Hopkins University
 (https://www.coursera.org/learn/unix)
 where I've learnt:
-
- 1. Shell Script
- 1. Github
- 1. Bash (Unix Shell)
- 1.Cloud Computing
+ -  Shell Script
+ -  Github
+ -  Bash (Unix Shell)
+ -  Cloud Computing
 
 ***For the third specialization, "Object Oriented Java Programming: Data Structures and Beyond", I've completed all the courses of this specialization but could not get specialization certificate as I've submitted my Capston project for this specialization at the least time. It occurred such because at the beginning my project was far more challenges to complete in due time. Later I've taken a project which was possible to complete in due time but I could not get enough peer review to get a grade. Thus I didn't get the certificate. I hope in the upcoming session which is going to be started at end December, i will get enough peer review and will achieve the certificate. 
 

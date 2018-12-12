@@ -1,13 +1,12 @@
 # My-Profile-as-a-Developer
 I'm a permanent residence of Russian Federation (есть Вид На Жительство) and a graduate of Peter the Great Saint Petersburg Polytechnic University.
 
-Last year, 2017 after graduating from Saint Petersburg Polytechnic University I started learn Computer Science and Programming language in deep at Coursera (https://www.coursera.org/).
-In Coursera I've completed 15 courses which mainly focused on Object Oriented Programming Java, Parallel, Concurrent, and Distributed programming in Java and Shell programming, Linux. Those courses were conducted by Duke University, University of San Diego,  Rice University and John Hopkins University.
+Last year, 2017 after graduating from Saint Petersburg Polytechnic University I started learn Computer Science and Programming language in deep at ![Coursera](https://www.coursera.org/).
+In Coursera I've completed 15 courses which mainly focused on Object Oriented Programming Java, Parallel, Concurrent, and Distributed programming in Java and Shell programming, Linux. Those courses were conducted by Duke University, University of San Diego, Rice University and John Hopkins University.
 
 Among this 15 courses, there were 3 specialization courses, whic are:
 
-1) Java programming and software engineering fundamentals by Duke University
-(https://www.coursera.org/specializations/java-programming)
+1) Java programming and software engineering fundamentals by ![Duke University](https://www.coursera.org/specializations/java-programming)
 where I've learned:
  - Basic web Developing ( HTML, CCS)
  - JavaScript
@@ -19,8 +18,7 @@ where I've learned:
  - Reading Data from CSV file
 
 
-2) Object Oriented Java Programming: Data Structures and Beyond  by University of California San Diego
-(https://www.coursera.org/specializations/java-object-oriented)
+2) Object Oriented Java Programming: Data Structures and Beyond  by ![University of California San Diego](https://www.coursera.org/specializations/java-object-oriented)
 where I've learnt:
  - Java Class Design, Redesign and Refactoring
  - Object creation in Java
@@ -37,10 +35,8 @@ where I've learnt:
  - A* Search Algorithm
 
 3) Parallel, Concurrent, and Distributed Programming in Java
-by Rice University
-(https://www.coursera.org/specializations/pcdp)
-where I've learnt basic of:
-	
+by ![Rice University](https://www.coursera.org/specializations/pcdp)
+where I've learnt basic of:	
 
 	1. Java Concurrency:
 		- Concurrency theory: progress guarantees, deadlock, livelock, starvation, linearizability
@@ -61,8 +57,7 @@ where I've learnt basic of:
 		- Approaches to combine distribution with multithreading, including processes and threads, distributed 		          actors, and reactive programming		
 	1. Optimistic Concurrency Control
 
-I've successfully complete another course in Coursera on Unix based operating, called "The Unix Workbench"  by John Hopkins University
-(https://www.coursera.org/learn/unix)
+I've successfully complete another course in Coursera on Unix based operating, called "The Unix Workbench"  by ![John Hopkins University](https://www.coursera.org/learn/unix)
 where I've learnt:
  -  Shell Script
  -  Github
@@ -80,24 +75,24 @@ _For the third specialization, "Object Oriented Java Programming: Data Structure
  1. Building Move recommendation System
 	This was the Capston project of Java programming and software engineering fundamentals by Duke University.
 In this system, at the beginning,  the user will be prompt to rate 10 -  15 movies to rate, and my program will use these rating to find similar raters and analyzing those similar rates make a list of recommendation movie list. 
-*Please see details of this project in GitHub: https://github.com/mmncoder/Movie-Recommendation-System
+*Please see details of this project in ![GitHub](https://github.com/mmncoder/Movie-Recommendation-System)
 
 
  1. Visualize live Earthquake data in a Map
  	This program would read live data of earthquake from United States Geological Survey(USHS) and visualize those earthquake int a map.
 In this project with Java basic libraries, I've also used third parties libraries, like:
-Unfoldingmaps library(http://unfoldingmaps.org/)
-Processing library (https://processing.org/)
-I‘ve used JSON data in this project.
+-![Unfoldingmaps library](http://unfoldingmaps.org/)
+-![Processing library](https://processing.org/)
+I‘ve used __JSON data__ in this project.
 
-Please see details of this project in GitHub: https://github.com/mmncoder/Earthquake-Data-Visualization
+Please see details of this project in ![GitHub](https://github.com/mmncoder/Earthquake-Data-Visualization)
 
 
                 
  1. Text editor to generate text using Markove model (small machine learning project), check word spell, auto suggestion for misspelled word and  auto-completion as soon as user start to type a word 
 In this project I’ve used different data structures like: List, Map, learn Markove model, read Flesch Score to determine a text’s difficulties to comprehend, distance between two words.
 
-Please see details of this project in GitHub:https://github.com/mmncoder/Text-Editor
+Please see details of this project in ![GitHub](https://github.com/mmncoder/Text-Editor)
 
 
  1. Finding shortest route in Map
@@ -107,15 +102,14 @@ Please see details of this project in GitHub:https://github.com/mmncoder/Text-Ed
 		1. A* search Algorithm
 	I’ve used the following data Structure: Set, Queue and Graph
 
-Please see details of this project in GitHub: https://github.com/mmncoder/Shortest-Route-Finding-in-Map
+Please see details of this project in ![GitHub](https://github.com/mmncoder/Shortest-Route-Finding-in-Map)
 
  1. Detect number of total user of Social Network, whom need to share a post to be seen by everyone in that social network and sub communities in a Social Network
 Object Oriented Java Programming: Data Structures and Beyond  by University of California San Diego
 For the first part I’ve use simple algorithm to find how many user need to post a post/ message to be seen by everyone in the network.
 For second part, I’ve used Grivan-Newmanalgorithm.
 
-Please see details of this project in GitHub:
-https://github.com/mmncoder/Social-Network-Analyzing-Detect-Sub-Communities-in-a-Social-Network
+Please see details of this project in ![GitHub](https://github.com/mmncoder/Social-Network-Analyzing-Detect-Sub-Communities-in-a-Social-Network)
 
  1. For Parallel, Concurrent, and Distributed Programming in Java specialization I’ve develop 12 mini-projects (at introductory label) where the starter codes were provided.
 Specially I’ve develop the program to exhibit the following:
@@ -124,29 +118,25 @@ Specially I’ve develop the program to exhibit the following:
 		1. Global and Object-Based Isolation
 		1. Sieve of Eratosthenes Using Actor Parallelism
 		1. Parallelization of Boruvka's Minimum Spanning Tree Algorithm
-	Please see details of this project in GitHub:
-https://github.com/mmncoder/Concurrent-Programming-in-Java
+	Please see details of this project in ![GitHub](https://github.com/mmncoder/Concurrent-Programming-in-Java)
 
 	1. In Parallel:
 		1. ReciprocalArraySum using RecursiveAction's in Java's Fork/Join Framework 
 		1. Analysing Student Statictis Using Java Parallel Stream
 		1. Parallelizing Matrix-Matrix Multiply Using Loop Parallelism
 		1. Using Phasers to Optimize Data-Parallel Applications
-Please see details of this project in GitHub:
-https://github.com/mmncoder/Parallel-Programming-in-Java
+Please see details of this project in ![GitHub](https://github.com/mmncoder/Parallel-Programming-in-Java)
 
 	1. In Distributed: 
 		1. Page Rank with Spark
 		1. File Server Using Sockets
 		1. Distributed Matrix Multiply using Message Passing
 		1. Parallel File Server using Multithreading and Sockets
-   Please see details of this project in GitHub:
-   https://github.com/mmncoder/Distributed-Programming-in-Java
+   Please see details of this project in ![GitHub](https://github.com/mmncoder/Distributed-Programming-in-Java)
  
-## Bash programing
+1. Bash programing
 This project was the final assignment of  “The Unix Workbench" course. In this assignment I’ve developed a program in Bash programming languge to play “Guessing Game”, where the have to guess how many files in the current directory and use will get response according to his input.
-Please see details of this project in GitHub:
-https://github.com/mmncoder/Bash-Programming-Assignment-Guessing-Game
+Please see details of this project in ![GitHub](https://github.com/mmncoder/Bash-Programming-Assignment-Guessing-Game)
 
 #### About myself:
 I've deep understanding of Object Oriented Programming Philosophy, it’s design and implementation with Java programming language, Data structures, different type of algorithm to Data analysis.
@@ -156,7 +146,7 @@ _I've strong motivation and sincere desire to build a successful career in infor
 
 ### A summary of my skills are mentioned below. 
 
-#### Programming skills:
+#### _Programming skills:_
 •	Good understanding of object oriented programming design and implementation
 •	Fundamental of Java SE and basic of Java EE
 •	Good knowledge of Java 8 and familiar with new features of  Java 9 : Concurrency, Lambda expressions, Stream API, Servlet, JSP, JDBC
@@ -166,7 +156,7 @@ _I've strong motivation and sincere desire to build a successful career in infor
 •	Dynamic programming concept
 •	JUnit Testing Framework
 
-#### Data Structure:
+#### _Data Structure:_
 
 •	Abstract Data Type (ADT)
 •	Java Collection framework 
@@ -175,7 +165,7 @@ _I've strong motivation and sincere desire to build a successful career in infor
 •	Trie data structure
 •	Graph data structure
 
-#### Algorithms
+#### _Algorithms_
 •	Asymptotic analysis of Algorithms  (Big O)
 •	Sorting Algorithm: Bubble sort, Merge Sort, Insertion sort, Selection sort, Quick sort
 •	Search Algorithms: Linear search, Binary search
@@ -185,14 +175,18 @@ _I've strong motivation and sincere desire to build a successful career in infor
 •	Hamiltonian and Eulerian graphs : Basic knowledge
 •	Heuristic solution, Optimal solution: Basic knowledge
 
-#### Database: Relational Database, SQL, MySQL workbench
+#### _Database:_
+•	Relational Database
+•	SQL
+•	MySQL workbench
 
-Java Framework (Basic)
+#### _Java Framework (Basic):_
 •      Maven
 •      Spring core
 •      Hibernate
 
-#### Big data: Apache Hadoop - very basic. 
+#### Big data: 
+•      Apache Hadoop - very basic. 
 
 #### IDE for Java:
 •	Eclipse 

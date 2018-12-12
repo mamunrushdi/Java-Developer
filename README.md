@@ -211,8 +211,8 @@ CSV, JSON, HTML, CSS, Bootstrap, Designing UML diagram, Apache Tomcat, DevOps Cu
 I’m a permanent residence (есть Вид на жительство) of Russian Federation. I’m living in Russia since 2009. I have Tax Identification Number (ИНН) as well as other all necessary documents to live and work in Russia legally.
 
 #### About Myself
-As a person, I’m hard worker, active learner, cooperative, sociable and friendly. As learner and for personal growth I actively follow different kind of online educational forums and blogs, especially [Stackoverflow](stackoverflow.com) and [GOTO Conference](https://blog.gotocon.com/), [TEDTALK](ted.com), [Harvard Business Review](https://hbr.org/)
+As a person, I’m hard worker, active learner, cooperative, sociable and friendly. As learner to expand my knowledge and for personal growth I actively follow different kind of educational online forums and blogs, especially [Stackoverflow](stackoverflow.com), [GOTO Conference](https://blog.gotocon.com/), [TEDTALK](ted.com), [Harvard Business Review](https://hbr.org/). I try to attend Seminars, Workshop and Hackathon organize in Saint Petersburg. 
 
-I’m fluent in Russian. At university I've studied in Russian language, both my Bachelor and Masters.
+___Я свободно владею русским языком. В университете Я учился на русском языке.___
 
 I’ve been a volunteer in [Saint Petersburg International Economic Forum in 2015](https://www.forumspb.com/en/)

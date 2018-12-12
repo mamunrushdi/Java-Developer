@@ -91,8 +91,7 @@ In this project with Java basic libraries, I've also used third parties librarie
                 
  1. Text editor to generate text using Markove model (small machine learning project), check word spell, auto suggestion for misspelled word and  auto-completion as soon as user start to type a word 
 In this project I’ve used different data structures like: List, Map, learn Markove model, read Flesch Score to determine a text’s difficulties to comprehend, distance between two words.
- 
- Please see details of this project in [GitHub](https://github.com/mmncoder/Text-Editor)
+ 	Please see details of this project in [GitHub](https://github.com/mmncoder/Text-Editor)
 
 
  1. Finding shortest route in Map

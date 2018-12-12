@@ -39,25 +39,25 @@ where I've learnt:
 3) Parallel, Concurrent, and Distributed Programming in Java
 by Rice University
 (https://www.coursera.org/specializations/pcdp)
-where I've learnt basic of
-__1.Java Concurrency:__
-	- Concurrency theory: progress guarantees, deadlock, livelock, starvation, linearizability
-	- Use of threads and structured/unstructured locks in Java
-	- Atomic variables and isolation
-	- Optimistic concurrency and concurrent collections in Java (e.g., concurrent queues, concurrent hashmaps)
-	- Actor model in Java
-__1.Parallel Computing__
-	- Theory of parallelism: computation graphs, work, span, ideal parallelism, parallel speedup, Amdahl's Law, data 	    races, and determinism
-	- Task parallelism using Java’s ForkJoin framework
-	- Functional parallelism using Java’s Future and Stream frameworks
-	- Loop-level parallelism with extensions for barriers and iteration grouping (chunking)
-	- Dataflow parallelism using the Phaser framework and data-driven tasks
-__1.Distributed Computing__
-	- Distributed map-reduce programming in Java using the Hadoop and Spark frameworks
-	- Client-server programming using Java's Socket and Remote Method Invocation (RMI) interfaces
-	- Message-passing programming in Java using the Message Passing Interface (MPI)
-	- Approaches to combine distribution with multithreading, including processes and threads, distributed actors, and 	     reactive programming
-__1.Optimistic Concurrency Control__
+where I've learnt basic of:
+	__1.Java Concurrency:__
+		- Concurrency theory: progress guarantees, deadlock, livelock, starvation, linearizability
+		- Use of threads and structured/unstructured locks in Java
+		- Atomic variables and isolation
+		- Optimistic concurrency and concurrent collections in Java (e.g., concurrent queues, concurrent hashmaps)
+		- Actor model in Java
+	__1.Parallel Computing__
+		- Theory of parallelism: computation graphs, work, span, ideal parallelism, parallel speedup, Amdahl's Law, 		      data races, and determinism
+		- Task parallelism using Java’s ForkJoin framework
+		- Functional parallelism using Java’s Future and Stream frameworks
+		- Loop-level parallelism with extensions for barriers and iteration grouping (chunking)
+		- Dataflow parallelism using the Phaser framework and data-driven tasks
+	__1.Distributed Computing__
+		- Distributed map-reduce programming in Java using the Hadoop and Spark frameworks
+		- Client-server programming using Java's Socket and Remote Method Invocation (RMI) interfaces
+		- Message-passing programming in Java using the Message Passing Interface (MPI)
+		- Approaches to combine distribution with multithreading, including processes and threads, distributed 		          actors, and reactive programming
+	__1.Optimistic Concurrency Control__
 
 ### I've successfully complete another course in Coursera on Unix based operating, called "The Unix Workbench"  by John Hopkins University
 (https://www.coursera.org/learn/unix)

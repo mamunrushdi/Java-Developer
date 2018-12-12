@@ -40,6 +40,9 @@ where I've learnt:
 by Rice University
 (https://www.coursera.org/specializations/pcdp)
 where I've learnt basic of:
+	1. A
+	1. B
+	1. C
 
 	a)Java Concurrency:
 		 1.Concurrency theory: progress guarantees, deadlock, livelock, starvation, linearizability

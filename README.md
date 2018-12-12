@@ -85,9 +85,9 @@ In this project with Java basic libraries, I've also used third parties librarie
 	1. [Unfoldingmaps library](http://unfoldingmaps.org/)
 	1. [Processing library](https://processing.org/)
 
-I‘ve used __JSON data__ in this project.
+	I‘ve used __JSON data__ in this project.
 
-Please see details of this project in [GitHub](https://github.com/mmncoder/Earthquake-Data-Visualization)
+	Please see details of this project in [GitHub](https://github.com/mmncoder/Earthquake-Data-Visualization)
                 
  1. Text editor to generate text using Markove model (small machine learning project), check word spell, auto suggestion for misspelled word and  auto-completion as soon as user start to type a word 
 In this project I’ve used different data structures like: List, Map, learn Markove model, read Flesch Score to determine a text’s difficulties to comprehend, distance between two words.
@@ -113,11 +113,13 @@ Please see details of this project in [GitHub](https://github.com/mmncoder/Socia
 
  1. For Parallel, Concurrent, and Distributed Programming in Java specialization I’ve develop 12 mini-projects (at introductory label) where the starter codes were provided.
 Specially I’ve develop the program to exhibit the following:
+
 	 1. In Concurrent:
 		1. Locking and Synchronization
 		1. Global and Object-Based Isolation
 		1. Sieve of Eratosthenes Using Actor Parallelism
 		1. Parallelization of Boruvka's Minimum Spanning Tree Algorithm
+		
 	Please see details of this project in [GitHub](https://github.com/mmncoder/Concurrent-Programming-in-Java)
 
 	1. In Parallel:
@@ -125,14 +127,14 @@ Specially I’ve develop the program to exhibit the following:
 		1. Analysing Student Statictis Using Java Parallel Stream
 		1. Parallelizing Matrix-Matrix Multiply Using Loop Parallelism
 		1. Using Phasers to Optimize Data-Parallel Applications
-Please see details of this project in [GitHub](https://github.com/mmncoder/Parallel-Programming-in-Java)
+	Please see details of this project in [GitHub](https://github.com/mmncoder/Parallel-Programming-in-Java)
 
 	1. In Distributed: 
 		1. Page Rank with Spark
 		1. File Server Using Sockets
 		1. Distributed Matrix Multiply using Message Passing
 		1. Parallel File Server using Multithreading and Sockets
-   Please see details of this project in [GitHub](https://github.com/mmncoder/Distributed-Programming-in-Java)
+       Please see details of this project in [GitHub](https://github.com/mmncoder/Distributed-Programming-in-Java)
  
 1. Bash programing
 This project was the final assignment of  “The Unix Workbench" course. In this assignment I’ve developed a program in Bash programming languge to play “Guessing Game”, where the have to guess how many files in the current directory and use will get response according to his input.

@@ -42,23 +42,42 @@ by Rice University
 where I've learnt basic of:
 
 	1.Java Concurrency:
-		- Concurrency theory: progress guarantees, deadlock, livelock, starvation, linearizability	
+	
+		- Concurrency theory: progress guarantees, deadlock, livelock, starvation, linearizability
+		
 		- Use of threads and structured/unstructured locks in Java
+		
 		- Atomic variables and isolation
+		
 		- Optimistic concurrency and concurrent collections in Java (e.g., concurrent queues, concurrent hashmaps)
+		
 		- Actor model in Java
 		
+		
 	1.Parallel Computing
+	
 		- Theory of parallelism: computation graphs, work, span, ideal parallelism, parallel speedup, Amdahl's Law, 		      data races, and determinism
+		
 		- Task parallelism using Java’s ForkJoin framework
+		
 		- Functional parallelism using Java’s Future and Stream frameworks
+		
 		- Loop-level parallelism with extensions for barriers and iteration grouping (chunking)
+		
 		- Dataflow parallelism using the Phaser framework and data-driven tasks
+		
+		
 	1.Distributed Computing
+	
 		- Distributed map-reduce programming in Java using the Hadoop and Spark frameworks
+		
 		- Client-server programming using Java's Socket and Remote Method Invocation (RMI) interfaces
+		
 		- Message-passing programming in Java using the Message Passing Interface (MPI)
+		
 		- Approaches to combine distribution with multithreading, including processes and threads, distributed 		          actors, and reactive programming
+		
+		
 	1.Optimistic Concurrency Control
 
 ### I've successfully complete another course in Coursera on Unix based operating, called "The Unix Workbench"  by John Hopkins University

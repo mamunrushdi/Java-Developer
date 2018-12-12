@@ -1,7 +1,7 @@
 # My Profile as Java Developer
 I'm a permanent residence of Russian Federation (есть Вид На Жительство) and a graduate of Peter the Great Saint Petersburg Polytechnic University.
 
-Last year, at 2017 after graduating from Saint Petersburg Polytechnic University I've started to learn Computer Science and Programming language in deep at [Coursera](https://www.coursera.org/) to extend my programming knowldege and skills.
+Last year, at 2017 after graduating from Saint Petersburg Polytechnic University I've started to learn Computer Science and Programming language in deep at [Coursera](https://www.coursera.org/) to extend my programming knowledge and skills.
 
 In Coursera I've completed 15 courses which mainly focused on Object Oriented Programming in Java, Parallel, Concurrent, and Distributed programming in Java, Shell programming, and Linux. Those courses were conducted by Duke University, University of San Diego, Rice University and John Hopkins University.
 
@@ -68,7 +68,7 @@ where I've learnt:
 _For the third specialization, "Object Oriented Java Programming: Data Structures and Beyond", I've completed all the courses of this specialization but could not get specialization certificate as I've submitted my Capston project for this specialization at the least time. It occurred, because at the beginning my project was far more challenging to complete in due time. Later I've taken a project which was possible to complete in due time but I could not get enough peer review to get a grade. Thus I didn't get the certificate. I hope in the upcoming session, which is going to be started at end December, I will get enough peer review and will achieve the certificate._
 
 _[Accomplishment Cetificate of all the Courses](https://github.com/mmncoder/Coursera-Certificates)_
-#### During learning peoriod of these Courses I've developed the follwoing projects:
+#### During learning period of these Courses I've developed the follwoing projects:
  1. Analyzing DAN to detect a gene
  1. Analyzing data and answering question about this data
  1. Encrypting and Decrypting text
@@ -92,9 +92,9 @@ In this project with Java basic libraries, I've also used third parties librarie
 
 	Please see details of this project in [GitHub](https://github.com/mmncoder/Earthquake-Data-Visualization)
                 
- 1. Text editor to generate text using Markove model (small machine learning project), check word spell, auto suggestion for misspelled word and  auto-completion as soon as user start to type a word
+ 1. Text editor to generate text using Markov model (small machine learning project), check word spell, auto suggestion for misspelled word and  auto-completion as soon as user start to type a word
  
- 	In this project I’ve used different data structures like: List, Map, learn Markove model, read Flesch Score to determine a text’s difficulties to comprehend, distance between two words.
+ 	In this project I’ve used different data structures like: List, Map, learn Markov model, read Flesch Score to determine a text’s difficulties to comprehend, distance between two words.
  	Please see details of this project in [GitHub](https://github.com/mmncoder/Text-Editor)
 
 
@@ -146,7 +146,7 @@ For second part, I’ve used Grivan-Newmanalgorithm.
 
  1. Bash programing
  
- 	This project was the final assignment of  “The Unix Workbench" course. In this assignment I’ve developed a program in Bash programming languge to play “Guessing Game”, where the have to guess how many files in the current directory and use will get response according to his input.
+ 	This project was the final assignment of  “The Unix Workbench" course. In this assignment I’ve developed a program in Bash programming language to play “Guessing Game”, where the have to guess how many files in the current directory and use will get response according to his input.
  Please see details of this project in [GitHub](https://github.com/mmncoder/Bash-Programming-Assignment-Guessing-Game)
 
 #### My Objective:

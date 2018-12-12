@@ -119,7 +119,6 @@ For second part, I’ve used Grivan-Newmanalgorithm.
  1. For Parallel, Concurrent, and Distributed Programming in Java specialization I’ve develop 12 mini-projects (at introductory label) where the starter codes were provided.
  
 	Specially I’ve develop the program to exhibit the following:
-
 		 1. In Concurrent:
 			1. Locking and Synchronization
 			1. Global and Object-Based Isolation

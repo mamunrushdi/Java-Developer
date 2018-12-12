@@ -73,14 +73,15 @@ _[Accomplishment Cetificate of all the Courses](https://github.com/mmncoder/Cour
  1. Analyzing data and answering question about this data
  1. Encrypting and Decrypting text
  1. Generating Random Story
-
  1. Building Move recommendation System
+ 
  	This was the Capston project of Java programming and software engineering fundamentals by Duke University.
 In this system, at the beginning,  the user will be prompt to rate 10 -  15 movies to rate, and my program will use these rating to find similar raters and analyzing those similar rates make a list of recommendation movie list. 
 *Please see details of this project in [GitHub](https://github.com/mmncoder/Movie-Recommendation-System)
 
 
  1. Visualize live Earthquake data in a Map
+ 
  	This program would read live data of earthquake from United States Geological Survey(USHS) and visualize those earthquake int a map.
 In this project with Java basic libraries, I've also used third parties libraries, like:
 
@@ -92,11 +93,13 @@ In this project with Java basic libraries, I've also used third parties librarie
 	Please see details of this project in [GitHub](https://github.com/mmncoder/Earthquake-Data-Visualization)
                 
  1. Text editor to generate text using Markove model (small machine learning project), check word spell, auto suggestion for misspelled word and  auto-completion as soon as user start to type a word
+ 
  	In this project I’ve used different data structures like: List, Map, learn Markove model, read Flesch Score to determine a text’s difficulties to comprehend, distance between two words.
  	Please see details of this project in [GitHub](https://github.com/mmncoder/Text-Editor)
 
 
  1. Finding shortest route in Map
+ 
  	In this project I’ve used to the following algorithm find a shortest route between two points:
 		1. Breadth First Search 
 		1. Dijkstra Algorithm
@@ -106,6 +109,7 @@ In this project with Java basic libraries, I've also used third parties librarie
   	Please see details of this project in [GitHub](https://github.com/mmncoder/Shortest-Route-Finding-in-Map)
 
  1. Detect number of total user of Social Network, whom need to share a post to be seen by everyone in that social network and sub communities in a Social Network
+ 
  	Object Oriented Java Programming: Data Structures and Beyond  by University of California San Diego
 For the first part I’ve use simple algorithm to find how many user need to post a post/ message to be seen by everyone in the network.
 For second part, I’ve used Grivan-Newmanalgorithm.
@@ -113,6 +117,7 @@ For second part, I’ve used Grivan-Newmanalgorithm.
 	 Please see details of this project in [GitHub](https://github.com/mmncoder/Social-Network-Analyzing-Detect-Sub-Communities-in-a-Social-Network)
 
  1. For Parallel, Concurrent, and Distributed Programming in Java specialization I’ve develop 12 mini-projects (at introductory label) where the starter codes were provided.
+ 
 Specially I’ve develop the program to exhibit the following:
 
 	 1. In Concurrent:
@@ -140,6 +145,7 @@ Specially I’ve develop the program to exhibit the following:
        Please see details of this project in [GitHub](https://github.com/mmncoder/Distributed-Programming-in-Java)
  
  1. Bash programing
+ 
  	This project was the final assignment of  “The Unix Workbench" course. In this assignment I’ve developed a program in Bash programming languge to play “Guessing Game”, where the have to guess how many files in the current directory and use will get response according to his input.
  Please see details of this project in [GitHub](https://github.com/mmncoder/Bash-Programming-Assignment-Guessing-Game)
 

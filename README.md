@@ -91,16 +91,16 @@ In this project with Java basic libraries, I've also used third parties librarie
                 
  1. Text editor to generate text using Markove model (small machine learning project), check word spell, auto suggestion for misspelled word and  auto-completion as soon as user start to type a word 
 In this project I’ve used different data structures like: List, Map, learn Markove model, read Flesch Score to determine a text’s difficulties to comprehend, distance between two words.
-
-Please see details of this project in [GitHub](https://github.com/mmncoder/Text-Editor)
+ 
+ Please see details of this project in [GitHub](https://github.com/mmncoder/Text-Editor)
 
 
  1. Finding shortest route in Map
-	In this project I’ve used to the following algorithm find a shortest route between two points:
-		1. Breadth First Search 
-		1. Dijkstra Algorithm
-		1. A* search Algorithm
-	I’ve used the following data Structure: Set, Queue and Graph
+In this project I’ve used to the following algorithm find a shortest route between two points:
+	1. Breadth First Search 
+	1. Dijkstra Algorithm
+	1. A* search Algorithm
+I’ve used the following data Structure: Set, Queue and Graph
 
 Please see details of this project in [GitHub](https://github.com/mmncoder/Shortest-Route-Finding-in-Map)
 
@@ -109,7 +109,7 @@ Object Oriented Java Programming: Data Structures and Beyond  by University of C
 For the first part I’ve use simple algorithm to find how many user need to post a post/ message to be seen by everyone in the network.
 For second part, I’ve used Grivan-Newmanalgorithm.
 
-Please see details of this project in [GitHub](https://github.com/mmncoder/Social-Network-Analyzing-Detect-Sub-Communities-in-a-Social-Network)
+ Please see details of this project in [GitHub](https://github.com/mmncoder/Social-Network-Analyzing-Detect-Sub-Communities-in-a-Social-Network)
 
  1. For Parallel, Concurrent, and Distributed Programming in Java specialization I’ve develop 12 mini-projects (at introductory label) where the starter codes were provided.
 Specially I’ve develop the program to exhibit the following:
@@ -136,9 +136,9 @@ Specially I’ve develop the program to exhibit the following:
 		1. Parallel File Server using Multithreading and Sockets
        Please see details of this project in [GitHub](https://github.com/mmncoder/Distributed-Programming-in-Java)
  
-1. Bash programing
+ 1. Bash programing
 This project was the final assignment of  “The Unix Workbench" course. In this assignment I’ve developed a program in Bash programming languge to play “Guessing Game”, where the have to guess how many files in the current directory and use will get response according to his input.
-Please see details of this project in [GitHub](https://github.com/mmncoder/Bash-Programming-Assignment-Guessing-Game)
+ Please see details of this project in [GitHub](https://github.com/mmncoder/Bash-Programming-Assignment-Guessing-Game)
 
 #### About myself:
 I've deep understanding of Object Oriented Programming Philosophy, it’s design and implementation with Java programming language, Data structures, different type of algorithm to Data analysis.

@@ -192,9 +192,6 @@ I'm looking for an opportunity for a Java developer or Data analysis where I can
 •      Spring core
 •      Hibernate
 
-#### Big data: 
-•      Apache Hadoop - very basic. 
-
 #### IDE for Java:
 •	Eclipse 
 •	Netbeans

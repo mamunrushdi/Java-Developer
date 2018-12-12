@@ -150,8 +150,8 @@ For second part, I’ve used Grivan-Newmanalgorithm.
  Please see details of this project in [GitHub](https://github.com/mmncoder/Bash-Programming-Assignment-Guessing-Game)
 
 #### My Objective:
-	I've deep understanding of Object Oriented Programming Philosophy, it’s design and implementation with Java programming language, Data structures, different type of algorithm to Data analysis.
-	I'm looking for an opportunity for a Java developer or Data analysis where I can apply my skills, talent, knowledge and at the same time can learn and develop myself by solving challenging, complex and innovative projects and will be a valuable member of my development team.
+_I've deep understanding of Object Oriented Programming Philosophy, it’s design and implementation with Java programming language, Data structures, different type of algorithm to Data analysis.
+I'm looking for an opportunity for a Java developer or Data analysis where I can apply my skills, talent, knowledge and at the same time can learn and develop myself by solving challenging, complex and innovative projects and will be a valuable member of my development team._
 
 #### _Programming skills:_
 •	Good understanding of object oriented programming design and implementation

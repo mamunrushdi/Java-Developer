@@ -120,29 +120,29 @@ For second part, I’ve used Grivan-Newmanalgorithm.
 	
 	Specially I’ve develop the program to exhibit the following
 	
-		1. In Concurrent:
-			1. Locking and Synchronization
-			1. Global and Object-Based Isolation
-			1. Sieve of Eratosthenes Using Actor Parallelism
-			1. Parallelization of Boruvka's Minimum Spanning Tree Algorithm
+	1. In Concurrent:
+		1. Locking and Synchronization
+		1. Global and Object-Based Isolation
+		1. Sieve of Eratosthenes Using Actor Parallelism
+		1. Parallelization of Boruvka's Minimum Spanning Tree Algorithm
 
-		Please see details of this project in [GitHub](https://github.com/mmncoder/Concurrent-Programming-in-Java)
+	Please see details of this project in [GitHub](https://github.com/mmncoder/Concurrent-Programming-in-Java)
 
-		1. In Parallel:
-			1. ReciprocalArraySum using RecursiveAction's in Java's Fork/Join Framework 
-			1. Analysing Student Statictis Using Java Parallel Stream
-			1. Parallelizing Matrix-Matrix Multiply Using Loop Parallelism
-			1. Using Phasers to Optimize Data-Parallel Applications
+	1. In Parallel:
+		1. ReciprocalArraySum using RecursiveAction's in Java's Fork/Join Framework 
+		1. Analysing Student Statictis Using Java Parallel Stream
+		1. Parallelizing Matrix-Matrix Multiply Using Loop Parallelism
+		1. Using Phasers to Optimize Data-Parallel Applications
 
-		Please see details of this project in [GitHub](https://github.com/mmncoder/Parallel-Programming-in-Java)
+	Please see details of this project in [GitHub](https://github.com/mmncoder/Parallel-Programming-in-Java)
 
-		1. In Distributed: 
-			1. Page Rank with Spark
-			1. File Server Using Sockets
-			1. Distributed Matrix Multiply using Message Passing
-			1. Parallel File Server using Multithreading and Sockets
+	1. In Distributed: 
+		1. Page Rank with Spark
+		1. File Server Using Sockets
+		1. Distributed Matrix Multiply using Message Passing
+		1. Parallel File Server using Multithreading and Sockets
 
-		Please see details of this project in [GitHub](https://github.com/mmncoder/Distributed-Programming-in-Java)
+	Please see details of this project in [GitHub](https://github.com/mmncoder/Distributed-Programming-in-Java)
 
  1. Bash programing
  

@@ -1,10 +1,11 @@
 # My-Profile-as-a-Developer
 I'm a permanent residence of Russian Federation (есть Вид На Жительство) and a graduate of Peter the Great Saint Petersburg Polytechnic University.
 
-Last year, 2017 after graduating from Saint Petersburg Polytechnic University I started learn Computer Science and Programming language in deep at [Coursera](https://www.coursera.org/).
-In Coursera I've completed 15 courses which mainly focused on Object Oriented Programming Java, Parallel, Concurrent, and Distributed programming in Java, Shell programming, and Linux. Those courses were conducted by Duke University, University of San Diego, Rice University and John Hopkins University.
+Last year, at 2017 after graduating from Saint Petersburg Polytechnic University I've started to learn Computer Science and Programming language in deep at [Coursera](https://www.coursera.org/) to extend my programming knowldege and skills.
 
-Among these 15 courses, there were 3 specialization courses, whic are:
+In Coursera I've completed 15 courses which mainly focused on Object Oriented Programming in Java, Parallel, Concurrent, and Distributed programming in Java, Shell programming, and Linux. Those courses were conducted by Duke University, University of San Diego, Rice University and John Hopkins University.
+
+Among these 15 courses, 14 courses were part of 3 specialization courses, which are:
 
 1) Java programming and software engineering fundamentals by [Duke University](https://www.coursera.org/specializations/java-programming)
 where I've learned:

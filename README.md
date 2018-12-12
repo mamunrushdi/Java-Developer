@@ -44,13 +44,9 @@ where I've learnt basic of:
 	1.Java Concurrency:
 	
 		- Concurrency theory: progress guarantees, deadlock, livelock, starvation, linearizability
-		
-		- Use of threads and structured/unstructured locks in Java
-		
-		- Atomic variables and isolation
-		
+		- Use of threads and structured/unstructured locks in Java		
+		- Atomic variables and isolation		
 		- Optimistic concurrency and concurrent collections in Java (e.g., concurrent queues, concurrent hashmaps)
-		
 		- Actor model in Java
 		
 		

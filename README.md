@@ -40,12 +40,14 @@ where I've learnt:
 by Rice University
 (https://www.coursera.org/specializations/pcdp)
 where I've learnt basic of:
+
 	1.Java Concurrency:
-		- Concurrency theory: progress guarantees, deadlock, livelock, starvation, linearizability
+		- Concurrency theory: progress guarantees, deadlock, livelock, starvation, linearizability	
 		- Use of threads and structured/unstructured locks in Java
 		- Atomic variables and isolation
 		- Optimistic concurrency and concurrent collections in Java (e.g., concurrent queues, concurrent hashmaps)
 		- Actor model in Java
+		
 	1.Parallel Computing
 		- Theory of parallelism: computation graphs, work, span, ideal parallelism, parallel speedup, Amdahl's Law, 		      data races, and determinism
 		- Task parallelism using Java’s ForkJoin framework

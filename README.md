@@ -118,32 +118,32 @@ For second part, I’ve used Grivan-Newmanalgorithm.
 
  1. For Parallel, Concurrent, and Distributed Programming in Java specialization I’ve develop 12 mini-projects (at introductory label) where the starter codes were provided.
  
-Specially I’ve develop the program to exhibit the following:
+	Specially I’ve develop the program to exhibit the following:
 
-	 1. In Concurrent:
-		1. Locking and Synchronization
-		1. Global and Object-Based Isolation
-		1. Sieve of Eratosthenes Using Actor Parallelism
-		1. Parallelization of Boruvka's Minimum Spanning Tree Algorithm
-		
-	Please see details of this project in [GitHub](https://github.com/mmncoder/Concurrent-Programming-in-Java)
+		 1. In Concurrent:
+			1. Locking and Synchronization
+			1. Global and Object-Based Isolation
+			1. Sieve of Eratosthenes Using Actor Parallelism
+			1. Parallelization of Boruvka's Minimum Spanning Tree Algorithm
 
-	1. In Parallel:
-		1. ReciprocalArraySum using RecursiveAction's in Java's Fork/Join Framework 
-		1. Analysing Student Statictis Using Java Parallel Stream
-		1. Parallelizing Matrix-Matrix Multiply Using Loop Parallelism
-		1. Using Phasers to Optimize Data-Parallel Applications
-		
-	Please see details of this project in [GitHub](https://github.com/mmncoder/Parallel-Programming-in-Java)
+		Please see details of this project in [GitHub](https://github.com/mmncoder/Concurrent-Programming-in-Java)
 
-	1. In Distributed: 
-		1. Page Rank with Spark
-		1. File Server Using Sockets
-		1. Distributed Matrix Multiply using Message Passing
-		1. Parallel File Server using Multithreading and Sockets
-		
-       Please see details of this project in [GitHub](https://github.com/mmncoder/Distributed-Programming-in-Java)
- 
+		1. In Parallel:
+			1. ReciprocalArraySum using RecursiveAction's in Java's Fork/Join Framework 
+			1. Analysing Student Statictis Using Java Parallel Stream
+			1. Parallelizing Matrix-Matrix Multiply Using Loop Parallelism
+			1. Using Phasers to Optimize Data-Parallel Applications
+
+		Please see details of this project in [GitHub](https://github.com/mmncoder/Parallel-Programming-in-Java)
+
+		1. In Distributed: 
+			1. Page Rank with Spark
+			1. File Server Using Sockets
+			1. Distributed Matrix Multiply using Message Passing
+			1. Parallel File Server using Multithreading and Sockets
+
+		Please see details of this project in [GitHub](https://github.com/mmncoder/Distributed-Programming-in-Java)
+
  1. Bash programing
  
  	This project was the final assignment of  “The Unix Workbench" course. In this assignment I’ve developed a program in Bash programming languge to play “Guessing Game”, where the have to guess how many files in the current directory and use will get response according to his input.

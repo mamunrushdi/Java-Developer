@@ -1,9 +1,10 @@
 # My Profile as Java Developer
-I'm a permanent residence of Russian Federation (есть Вид На Жительство) and a graduate of Peter the Great Saint Petersburg Polytechnic University.
+I'm a permanent resident of Russian Federation (есть Вид На Жительство) and a graduate of Peter the Great Saint Petersburg Polytechnic University.
+Since the end of 2017, after graduating university, to extend my programming knowledge and skills, I am learning Computer Science and Programming language deeply at 
+1. [Coursera](https://www.coursera.org/) and 
+1. [edX](https://www.edx.org/) 
 
-Last year, at 2017 after graduating from Saint Petersburg Polytechnic University I've started to learn Computer Science and Programming language in deep at [Coursera](https://www.coursera.org/) to extend my programming knowledge and skills.
-
-In Coursera I've completed 15 courses which mainly focused on Object Oriented Programming in Java, Parallel, Concurrent, and Distributed programming in Java, Shell programming, and Linux. Those courses were conducted by Duke University, University of San Diego, Rice University and John Hopkins University.
+In Coursera I've completed more than 20 courses which mainly focused on Object Oriented Programming in Java, Data analyzing, Parallel, Concurrent, and Distributed programming in Java, Shell programming, and Linux. Those courses were conducted by Duke University, University of San Diego, Rice University and John Hopkins University.
 
 Among these 15 courses, 14 courses were part of 3 specialization courses, which are:
 
@@ -207,8 +208,8 @@ I'm looking for an opportunity for a Java developer or Data analysis where I can
 #### Other skills:
 CSV, JSON, HTML, CSS, Bootstrap, Designing UML diagram, Apache Tomcat, DevOps Culture, Familiar with Agile Software Development Manifesto.
 
-#### My Residential Status in Russian Federation
-I’m a permanent residence (есть Вид на жительство) of Russian Federation. I’m living in Russia since 2009. I have Tax Identification Number (ИНН) as well as other all necessary documents to live and work in Russia legally.
+#### Residential Status in Russian Federation
+I’m a permanent resident (есть Вид на жительство) of Russian Federation. I’m living in Russia since 2009. I have Tax Identification Number (ИНН) as well as other all necessary documents to live and work in Russia legally.
 
 #### About Myself
 As a person, I’m hard worker, active learner, cooperative, sociable and friendly. As learner to expand my knowledge and for personal growth I actively follow different kind of educational online forums and blogs, especially [Stackoverflow](stackoverflow.com), [GOTO Conference](https://blog.gotocon.com/), [TEDTALK](ted.com), [Harvard Business Review](https://hbr.org/). I try to attend Seminars, Workshop and Hackathon organize in Saint Petersburg. 

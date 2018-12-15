@@ -1,12 +1,17 @@
 # My Profile as Java Developer
 I'm a permanent resident of Russian Federation (есть Вид На Жительство) and a graduate of Peter the Great Saint Petersburg Polytechnic University.
+
+_I am looking for an opportunity for Java Developer or Data Analyst with Java where I can apply my skills, talent,
+knowledge and at the same time can learn and develop myself by solving challenging, complex and innovative projects and will be
+a valuable member of my development team._
+
 Since the end of 2017, after graduating university, to extend my programming knowledge and skills, I am learning Computer Science and Programming language deeply at 
 1. [Coursera](https://www.coursera.org/) and 
 1. [edX](https://www.edx.org/) 
 
-In Coursera I've completed more than 20 courses which mainly focused on Object Oriented Programming in Java, Data analyzing, Parallel, Concurrent, and Distributed programming in Java, Shell programming, and Linux. Those courses were conducted by Duke University, University of San Diego, Rice University and John Hopkins University.
+In Coursera and edX I've completed more than 30 courses which mainly focused on Object Oriented Programming in Java, Data analyzing, Parallel, Concurrent, and Distributed programming in Java, Shell programming, and Linux. Those courses were conducted by Harvard university, Duke University, University of San Diego, Rice University and John Hopkins University.
 
-Among these 15 courses, 14 courses were part of 3 specialization courses, which are:
+Among these 14 courses, 13 courses were part of 3 specialization courses, which are:
 
 1) Java programming and software engineering fundamentals by [Duke University](https://www.coursera.org/specializations/java-programming)
 where I've learned:
@@ -150,10 +155,6 @@ For second part, I’ve used Grivan-Newmanalgorithm.
  	This project was the final assignment of  “The Unix Workbench" course. In this assignment I’ve developed a program in Bash programming language to play “Guessing Game”, where the have to guess how many files in the current directory and use will get response according to his input.
  Please see details of this project in [GitHub](https://github.com/mmncoder/Bash-Programming-Assignment-Guessing-Game)
 
-#### My Objective:
-_I've deep understanding of Object Oriented Programming Philosophy, it’s design and implementation with Java programming language, Data structures, different type of algorithm to Data analysis.
-I'm looking for an opportunity for a Java developer or Data analysis where I can apply my skills, talent, knowledge and at the same time can learn and develop myself by solving challenging, complex and innovative projects and will be a valuable member of my development team._
-
 #### _Programming skills:_
 •	Good understanding of object oriented programming design and implementation
 •	Fundamental of Java SE and basic of Java EE
@@ -209,7 +210,7 @@ I'm looking for an opportunity for a Java developer or Data analysis where I can
 CSV, JSON, HTML, CSS, Bootstrap, Designing UML diagram, Apache Tomcat, DevOps Culture, Familiar with Agile Software Development Manifesto.
 
 #### Residential Status in Russian Federation
-I’m a permanent resident (есть Вид на жительство) of Russian Federation. I’m living in Russia since 2009. I have Tax Identification Number (ИНН) as well as other all necessary documents to live and work in Russia legally.
+I’m a permanent resident (есть Вид на жительство) of Russian Federation. I have been living in Russia since 2009. I have Tax Identification Number (ИНН) as well as other all necessary documents to live and work in Russia legally.
 
 #### About Myself
 As a person, I’m hard worker, active learner, cooperative, sociable and friendly. As learner to expand my knowledge and for personal growth I actively follow different kind of educational online forums and blogs, especially [Stackoverflow](stackoverflow.com), [GOTO Conference](https://blog.gotocon.com/), [TEDTALK](ted.com), [Harvard Business Review](https://hbr.org/). I try to attend Seminars, Workshop and Hackathon organize in Saint Petersburg. 

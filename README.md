@@ -188,6 +188,7 @@ For second part, I’ve used Grivan-Newmanalgorithm.
 •	Relational Database
 •	SQL
 •	MySQL workbench
+•	JDBC
 
 #### _Java Framework (Basic):_
 •      Maven

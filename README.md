@@ -219,6 +219,3 @@ As a person, I’m hard worker, active learner, cooperative, sociable and friend
 ___Я хорошо владею русским языком. В университете Я учился на русском языке.___
 
 I’ve been a volunteer in [Saint Petersburg International Economic Forum in 2015](https://www.forumspb.com/en/)
-
-___Above all my skills and accomplishments what I will bring with myself to my company is my determination and perseverance to build a successful career in IT and be a valuable member of my company.___
-

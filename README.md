@@ -216,6 +216,9 @@ I’m a permanent resident (есть Вид на жительство) of Russia
 #### About Myself
 As a person, I’m hard worker, active learner, cooperative, sociable and friendly. As learner to expand my knowledge and for personal growth I actively follow different kind of educational online forums and blogs, especially [Stackoverflow](stackoverflow.com), [GOTO Conference](https://blog.gotocon.com/), [TEDTALK](ted.com), [Harvard Business Review](https://hbr.org/). I try to attend Seminars, Workshop and Hackathon organize in Saint Petersburg. 
 
-___Я свободно владею русским языком. В университете Я учился на русском языке.___
+___Я хорошо владею русским языком. В университете Я учился на русском языке.___
 
 I’ve been a volunteer in [Saint Petersburg International Economic Forum in 2015](https://www.forumspb.com/en/)
+
+___Above all my skills and accomplishments what I will bring with myself to my company is my determination and perseverance to build a successful career in IT and be a valuable member of my company.___
+

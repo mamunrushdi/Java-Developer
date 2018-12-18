@@ -1,4 +1,4 @@
-# My Profile as Java Developer
+# My Profile as Junior Java Developer
 I'm a permanent resident of Russian Federation (есть Вид На Жительство) and a graduate of Peter the Great Saint Petersburg Polytechnic University.
 
 _I am looking for an opportunity for Java Developer or Data Analyst with Java where I can apply my skills, talent,
@@ -216,6 +216,6 @@ I’m a permanent resident (есть Вид на жительство) of Russia
 #### About Myself
 As a person, I’m hard worker, active learner, cooperative, sociable and friendly. As learner to expand my knowledge and for personal growth I actively follow different kind of educational online forums and blogs, especially [Stackoverflow](stackoverflow.com), [GOTO Conference](https://blog.gotocon.com/), [TEDTALK](ted.com), [Harvard Business Review](https://hbr.org/). I try to attend Seminars, Workshop and Hackathon organize in Saint Petersburg. 
 
-___Я хорошо владею русским языком. В университете Я учился на русском языке.___
+___Я говорю по русский. В университете Я учился на русском языке.___
 
 I’ve been a volunteer in [Saint Petersburg International Economic Forum in 2015](https://www.forumspb.com/en/)

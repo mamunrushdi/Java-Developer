@@ -1,7 +1,7 @@
-# My Profile as Junior Java Developer
+# My Profile as Java Developer
 I'm a permanent resident of Russian Federation (есть вид на жительство) and a graduate of Peter the Great Saint Petersburg Polytechnic University.
 
-_I am looking for an opportunity for Java Developer or Data Analyst with Java where I can apply my skills, talent,
+_I am looking for an opportunity to work as Java Developer or Data Analyst with Java where I can apply my skills, talent,
 knowledge and at the same time can learn and develop myself by solving challenging, complex and innovative projects and will be a valuable member of my development team._
 
 Since the end of 2017, after graduating university, to extend my programming knowledge and skills, I am learning Computer Science and Programming language deeply at 
